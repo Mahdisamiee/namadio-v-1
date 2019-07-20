@@ -7,6 +7,7 @@ Vue.use(Vuetify, {
   iconfont: 'md',
   lang: {
     locales: { fa },
-    current: 'fa'
+    current: 'fa',
   },
+  rtl: true,
 })
